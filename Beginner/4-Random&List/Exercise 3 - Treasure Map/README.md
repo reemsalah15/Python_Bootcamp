@@ -17,9 +17,9 @@ This is a bit hard to work with. So on lines 6 and 23, we've used this line of c
 
 ## Your job is to write a program that allows you to mark a square on the map using a two-digit system. 
 
-## The first digit in the input will specify the column (the position on the horizontal axis).
+The first digit in the input will specify the column (the position on the horizontal axis).
 
-## The second digit in the input will specify the row number (the position on the vertical axis). 
+The second digit in the input will specify the row number (the position on the vertical axis). 
 
 First, your program must take the user input and convert it to a usable format.
 
