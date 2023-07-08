@@ -1,6 +1,6 @@
-## Rock Paper Scissors
+# Rock Paper Scissors
 
-# Instructions
+## Instructions
 
 Make a rock, paper, scissors game. 
 
